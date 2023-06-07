@@ -39,6 +39,7 @@ button{
     background-color: rgb(47, 25, 109);
 
 }
-.colorChange{
+.placeholder.colorChange{
     background-color: darkgoldenrod;
+    
 }
